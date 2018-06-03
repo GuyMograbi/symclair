@@ -1,4 +1,10 @@
 {
   "name": "symclair",
-  "version": "0.0.0"
+  "version": "0.0.0",
+  "bin": {
+    "symclair": "index.js"
+  },
+  "dependencies": {
+    "minimist": "^1.2.0"
+  }
 }
