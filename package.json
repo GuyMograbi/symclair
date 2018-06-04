@@ -5,6 +5,9 @@
     "symclair": "index.js"
   },
   "dependencies": {
+    "fs-extra": "^6.0.1",
+    "lodash": "^4.17.10",
+    "meow": "^5.0.0",
     "minimist": "^1.2.0"
   }
 }
